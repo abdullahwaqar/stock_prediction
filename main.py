@@ -28,7 +28,7 @@ from lib.Prediction_Models import PredictionModel
 # from lib.data_fetcher import *
 
 pm = PredictionModel()
-pm.benchmark_model()
+pm.improved_LTSM_model()
 
 # df = get_historical_data('GOOGL','2005-01-01','2017-06-30')
 # print(df)

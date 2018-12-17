@@ -54,4 +54,4 @@ def build_basic_model(input_dim, output_dim, return_sequences):
         units=1))
     model.add(Activation('linear'))
 
-return model
+    return model
