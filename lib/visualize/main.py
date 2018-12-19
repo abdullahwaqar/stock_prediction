@@ -15,7 +15,7 @@ def plot_basic(stocks, title='Google Trading', y_label='Price USD', x_label='Tra
     """
     Plots basic pyplot
     :param stocks: DataFrame having all the necessary data
-    :param title:  Title of the plot 
+    :param title:  Title of the plot
     :param y_label: yLabel of the plot
     :param x_label: xLabel of the plot
     :return: prints a Pyplot againts items and their closing value
